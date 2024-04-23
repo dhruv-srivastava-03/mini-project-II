@@ -6,7 +6,7 @@ import {
   EditOutlined,
   DeleteOutlined,
 } from "@ant-design/icons";
-import Layout from "./../components/Layout/Layout";
+import Layout from "../components/Layout/Layout";
 import axios from "axios";
 import Spinner from "./../components/Spinner";
 import moment from "moment";
